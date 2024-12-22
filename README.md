@@ -29,3 +29,19 @@ Modelagem Preditiva: Treino e avaliação de modelos para prever o comportamento
 Otimização de Portfólio: Implementação de algoritmos para selecionar as ações com melhor combinação de risco e retorno.
 
 Visualização e Avaliação: Apresentação de resultados e interpretação do impacto no contexto financeiro.
+
+
+
+## Tecnologias Utilizadas
+
+Linguagem de Programação: Python (com uso extensivo de bibliotecas como Pandas, NumPy, Scikit-learn, TensorFlow/Keras, Matplotlib, etc.)
+
+Fontes de Dados: Dados históricos obtidos do Yahoo Finance e/ou Alpha Vantage (período de 2010 a 2023).
+
+Técnicas de ML:
+
+Modelos Clássicos: Random Forest, Decision Trees, SVM.
+
+Modelos de Deep Learning: Redes LSTM e MLP.
+
+Métodos de Otimização: Simulações de Monte Carlo e Algoritmos Genéticos
